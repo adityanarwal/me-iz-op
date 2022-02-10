@@ -86,7 +86,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "• 𝐎ᴡɴᴇʀ", url="https://github.com/levina-lab/video-stream"
+                        "• 𝐎ᴡɴᴇʀ", url="https://t.me/Its_romeoo"
                     )
                 ],
             ]
